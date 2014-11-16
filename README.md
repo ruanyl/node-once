@@ -1,20 +1,20 @@
-once
+node-once
 ========
-[![build status](https://secure.travis-ci.org/ruanyl/once.svg)](http://travis-ci.org/ruanyl/once)
-[![NPM version](https://badge.fury.io/js/once.svg)](http://badge.fury.io/js/once)
+[![build status](https://secure.travis-ci.org/ruanyl/node-once.svg)](http://travis-ci.org/ruanyl/node-once)
+[![NPM version](https://badge.fury.io/js/node-once.svg)](http://badge.fury.io/js/node-once)
 
-once
+invoke a function only once.
 
 ## Installation
 
 This module is installed via npm:
 
 ``` bash
-$ npm install once
+$ npm install node-once
 ```
 
 ## Example Usage
 
 ``` js
-var once = require('once');
+var once = require('node-once');
 ```
